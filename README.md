@@ -1,1 +1,1 @@
-# ece3574-exercise01-f22
+# ece3574-f22-ex01
